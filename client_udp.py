@@ -2,7 +2,10 @@
 # ----------------------------------------------------------------
 # Douglas Yuan for CS176A HW3
 # Adaptation of sample code 'udp_client.py' 
-# from discussion section by Atefeh.
+# from discussion section by Atefeh, including 
+# strategies to set up port and IP info, read user 
+# input, open and close connections, and encode 
+# and decode messages. 
 
 
 #!/usr/bin/env python3

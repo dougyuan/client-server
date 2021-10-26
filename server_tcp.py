@@ -2,7 +2,13 @@
 # ----------------------------------------------------------------
 # Douglas Yuan for CS176A HW3
 # Adaptation of sample code 'tcp_server.py' 
-# from discussion section by Atefeh.
+# from discussion section by Atefeh, including 
+# strategies to set up port and IP info, read user 
+# input, open and close connections, and encode 
+# and decode messages. sendMessage() function is
+# adapted from a TCP server implmentation by Lucas
+# Lopilati. It is viewable at the link in the
+# accompanying README file.
 
 import sys
 # Socket programming library:
